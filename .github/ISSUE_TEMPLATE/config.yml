@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Problem with a private file? Email us instead
+    url: https://convertube.net/about#contact
+    about: Send the file to our inbox with a short description. It is used only to fix the problem and deleted afterwards.
+  - name: Convertube
+    url: https://convertube.net
+    about: Free file conversion that runs in your browser — nothing is uploaded.

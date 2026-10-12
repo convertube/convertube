@@ -1,0 +1,31 @@
+name: Make a wish
+description: A format, conversion or feature you'd like Convertube to have.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before posting, check whether [someone already asked](https://github.com/convertube/convertube/issues?q=is%3Aissue+label%3Aenhancement+sort%3Areactions-%2B1-desc) — if so, add a 👍 to theirs. Votes decide what gets built first.
+
+        You can write in **any language**. This issue will be public.
+
+  - type: textarea
+    id: wish
+    attributes:
+      label: What would you like?
+      placeholder: Convert EPUB to PDF
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: What would you use it for?
+      description: Knowing the job helps us build the right thing.
+      placeholder: I read e-books on a tablet that only opens PDFs.
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What do you use today?
+      description: Another site or app, and what you don't like about it.
