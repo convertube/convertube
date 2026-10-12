@@ -18,7 +18,7 @@ Issues here are **public** — anyone can read them. If a problem only happens w
 
 1. **Remove anything private** from the file before attaching it, or
 2. **Don't attach it** — describe it instead (type, size, where it came from), or
-3. **Email it** to [audiofilternet@outlook.com](mailto:audiofilternet@outlook.com) with your issue number in the subject. Emailed files are used only to reproduce and fix the problem, and are deleted afterwards.
+3. **Email it** to [convertubenet@outlook.com](mailto:convertubenet@outlook.com) with your issue number in the subject. Emailed files are used only to reproduce and fix the problem, and are deleted afterwards.
 
 ## What Convertube does
 
